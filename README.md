@@ -2,6 +2,7 @@
 Course Provider: Udemy
 Instructor : Kirill Eremenko
 Website : https://sdsclub.com/r-programming-a-z/
+Datasets: https://www.superdatascience.com/pages/rcourse
 -------------------------------------------------------------------------------------------------------------------------------------
 ## Exercise 1- Mispriced Diamonds
 - Generate Band Name based on your City and Pet Name
