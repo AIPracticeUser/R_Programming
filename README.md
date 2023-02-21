@@ -6,7 +6,7 @@ Website : https://sdsclub.com/r-programming-a-z/
 Datasets: https://www.superdatascience.com/pages/rcourse
 -------------------------------------------------------------------------------------------------------------------------------------
 ## Exercise 1- Mispriced Diamonds
-- Generate Band Name based on your City and Pet Name
-- AIM: Basic python codes such as printing, inputting, commenting, debugging, name errors, syntax erros, string manipulation, variables.
+-
 
-![image](https://user-images.githubusercontent.com/100339175/217744460-855dccf1-bcaa-4c01-b52c-f4692974cb40.png)
+![image](https://user-images.githubusercontent.com/100339175/220278020-d0a12d2d-5ddc-43e6-a62b-773e14492281.png)
+
